@@ -1,1 +1,0 @@
-# OctoFit Tracker backend package
