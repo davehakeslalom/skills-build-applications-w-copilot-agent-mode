@@ -3,6 +3,9 @@
 # Virtual Environment
 venv
 
+# Backend virtualenv
+octofit-tracker/backend/venv
+
 # octofit tracker app
 # octfit-tracker
 
